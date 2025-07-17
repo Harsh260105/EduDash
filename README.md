@@ -1,5 +1,6 @@
 # 🏫 EduDash - School Management System
 
+
 A comprehensive full-stack school management application built with Next.js, PostgreSQL, Prisma ORM, and Docker.
 
 ## 🚀 Features
